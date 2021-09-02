@@ -1,0 +1,34 @@
+.cover {
+    height: 100vh;
+  }
+  
+  .row-margin {
+    margin: 4vh auto;
+  }
+  
+  body {
+    
+    background: midnightblue;
+       
+  }
+  
+  .header {
+    color:white;
+    font-weight: bold
+  }
+  .col-md-8 {
+    color: white;
+    font-weight: 400;
+  }
+  
+  h1 {
+    font-family: "Times New Roman";
+    font-weight: bold;
+  }
+   
+  .btn-default {
+    background-color: black;
+    color : aqua;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
