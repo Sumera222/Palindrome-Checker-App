@@ -7,7 +7,7 @@
 # Software needed to run for this app
 1) VS Code (as Editor)
 2) Browser (as runtime Google Chrome)
-# Repo Link: 
-# Live Link:
+# Repo Link:  https://github.com/sumera222/Palindrome-Checker-App
+# Live Link:  https://sumera222.github.io/Palindrome-Checker-App/
 
 
